@@ -1,0 +1,9 @@
+{
+  "azureFunctions.deploySubpath": ".",
+  "azureFunctions.scmDoBuildDuringDeployment": true,
+  //"azureFunctions.pythonVenv": ".venv",
+  "python.pythonPath:" "E:\\mini\\envs\\rightmove",
+  "azureFunctions.projectLanguage": "Python",
+  "azureFunctions.projectRuntime": "~4",
+  "debug.internalConsoleOptions": "neverOpen"
+}
