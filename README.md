@@ -4,3 +4,7 @@ This is a pipeline built using various pieces of Microsoft/Azure infrastructure 
 - Azure Blob Storage: Storage of raw data (scraped), and curated information derived from it
 - Azure Function App: Orchestration of the scraping each day, via Python code embedded in an Azure Function
 - Microsoft Poweer BI: Visualisation curated data, and tracking of its evolution over time.
+
+The following block diagram illustrates how these services communicate with each other.
+
+Finally, this is a screenshot of the resulting Power BI app - any subsequent modelling will also be delivered here.
