@@ -7,4 +7,6 @@ This is a pipeline built using various pieces of Microsoft/Azure infrastructure 
 
 The following block diagram illustrates how these services communicate with each other.
 
-Finally, this is a screenshot of the resulting Power BI app - any subsequent modelling will also be delivered here.
+Finally, here's an example of the scraped data and inferred statistics as found in the Power BI frontend - any subsequent modelling will also be delivered here.
+
+![Screenshot](example_output.png)
