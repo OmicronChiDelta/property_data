@@ -9,4 +9,6 @@ The following block diagram illustrates how these services communicate with each
 
 Finally, here's an example of the scraped data and inferred statistics as found in the Power BI frontend - any subsequent modelling will also be delivered here.
 
-![Screenshot](example_output.png)
+<p align="center">
+  <img src="https://github.com/OmicronChiDelta/property_data/blob/master/example_output.png?raw=true" />
+</p>
